@@ -1,6 +1,6 @@
 {
     "BudgetLimit": {
-        "Amount": "10",
+        "Amount": "9",
         "Unit": "USD"
     },
     "BudgetName": "Example Tag Budget",
