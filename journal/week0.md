@@ -3,9 +3,10 @@
 ## Required Home/Task
 
 ### Creating Arichtecture Digram 
-![]()
+ I was able to create the digram using lucid 
+![Arichtecture Digram](assets/Cruddur-Logical-Diagram.png)
 
-### Installing CLI
+### Installing AWS verifaction of CLI
 
 I was able to install cli on my browser but before i could install, i had 2 error messages . 
 I did follow your video 
@@ -19,3 +20,6 @@ I was able to solve the issues
 Error 1. , by dowloading the awscliv2.zip file again and overwritting the aws folder after unzipping and then ran the installation file.
 
 For error message 2, i had to grant read write permission  in GitHub Gitpod streamlines developer workflows by providing prebuilt, collaborative development environments in your browser.
+
+![CLI Installation Proof](assets/CLI-installation-proof.JPG)
+![AWS CLI Identity Verfication ](assest/Aws-cli-verification.JPG)
