@@ -1,3 +1,4 @@
+#runs both front and backend on starup
 version: "3.8"
 services:
   backend-flask:
@@ -20,7 +21,7 @@ services:
 
 # the name flag is a hack to change the default prepend folder
 # name when outputting the image names
-#for play debola
+#for play debola another1
 networks: 
   internal-network:
     driver: bridge

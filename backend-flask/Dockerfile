@@ -1,5 +1,6 @@
+#installs python 
 FROM python:3.10-slim-buster
-
+#create file
 WORKDIR /backend-flask
 #run this code
 COPY requirements.txt requirements.txt
