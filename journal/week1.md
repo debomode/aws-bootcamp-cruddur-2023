@@ -50,3 +50,11 @@ Open the frontend-react-js in cmd terminal and run
 ```sh
 npm install
 ``
+## Multiple container 
+For running both front and backend url 
+
+### Create a docker-compose file
+
+Create ``docker-compose.yml`` at the root of your project
+
+
